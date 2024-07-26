@@ -1,3 +1,5 @@
+//Por Eduardo Barbosa Rodrigues e Vinicius Pontes Oliva
+
 #include <iostream>
 #include <vector>
 using namespace std;
